@@ -1,0 +1,13 @@
+body {
+    background-color: yellow;
+}
+.cont {
+    background-color: red;
+}
+.cont__item {
+    padding: 20px;
+    border: 1px solid silver;
+}
+.cont__item:hover {
+    opacity: 0.7;
+}
